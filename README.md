@@ -13,6 +13,6 @@ DEV Full Stack em formação na CubosAcademy
     
  ##
     
-![Snake animation](https://github.com/RodolfoArauj0/RODOLFO-ARAUJO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RodolfoArauj0/RodolfoArauj0/blob/output/github-contribution-grid-snake.svg)
  
 </div>
