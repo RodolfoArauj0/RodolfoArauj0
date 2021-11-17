@@ -1,5 +1,6 @@
 # RODOLFO ARAUJO
-![image](https://user-images.githubusercontent.com/94018223/141216797-fa57c9ab-41af-40e4-9dbb-80fb1bb2853a.png) ![image](https://user-images.githubusercontent.com/94018223/141216938-f17bc657-9fe7-4dd3-9f0e-81c463290e2d.png) ![image](https://user-images.githubusercontent.com/94018223/141217027-762f4e6d-e1fc-40e1-b326-e9a971f80cab.png) ![image](https://user-images.githubusercontent.com/94018223/141217050-00be2c17-e678-4641-b519-d6ffce4d104f.png)
+
+![image](https://user-images.githubusercontent.com/94018223/142251156-0bf39d16-b9a7-4d3d-82f5-d319e5694bc7.jpg)
 
 DEV Full Stack em formação na CubosAcademy 
 
