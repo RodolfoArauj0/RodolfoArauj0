@@ -1,6 +1,6 @@
 # RODOLFO ARAUJO
 
-DEV Full Stack em formação na CubosAcademy  👨‍💻.
+DEV Full Stack formado pela CubosAcademy  👨‍💻.
 
 <div align="center">
   <a href="https://github.com/RodolfoArauj0">
