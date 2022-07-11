@@ -8,7 +8,7 @@ DEV Full Stack formado pela CubosAcademy  👨‍💻.
 </div>
 
 <div style="display: inline_block"><br/>
-  <h1>Minhas Skills:<h1/>
+  <h1>Minhas Skills<h1/>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="node-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -18,8 +18,8 @@ DEV Full Stack formado pela CubosAcademy  👨‍💻.
 </div>
 
 <div style="display: inline_block"><br/>
-  <h1>Estudando no momento:<h1/>
-  <img align="center" alt="Angular" height="30" width="40" src="https://camo.githubusercontent.com/97daff1d80f13f7b5e38e41f00e01fe02526c7e5f068c540345f212adabaff8b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f616e67756c61726a732e706e67">
+  <h1>Estudando no momento<h1/>
+  <img align="center" alt="Angular" height="30" width="40" src="https://camo.githubusercontent.com/4f9985e75ef6d08199712ad2b1f822e5534fe876c52b010026c04a1714fa3d59/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e67756c61726a732f616e67756c61726a732d6f726967696e616c2e737667">
  
 </div>
 
