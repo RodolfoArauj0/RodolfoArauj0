@@ -19,7 +19,7 @@ DEV Full Stack formado pela CubosAcademy  👨‍💻.
 
 <div style="display: inline_block"><br/>
   <h1>Estudando no momento:<h1/>
-  <img align="center" alt="Angular" height="30" width="40" src="https://angular.io/">
+  <img align="center" alt="Angular" height="30" width="40" src="https://camo.githubusercontent.com/97daff1d80f13f7b5e38e41f00e01fe02526c7e5f068c540345f212adabaff8b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f616e67756c61726a732e706e67">
  
 </div>
 
