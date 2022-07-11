@@ -15,7 +15,12 @@ DEV Full Stack formado pela CubosAcademy  👨‍💻.
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PostgreSQL" height="45" width="45" src="https://user-images.githubusercontent.com/94018223/177883896-6f66442c-1909-44d8-81b2-52f16f1c6109.svg">
-  
+</div>
+
+<div style="display: inline_block"><br/>
+  <h1>Estudando no momento:<h1/>
+  <img align="center" alt="Angular" height="30" width="40" src="https://github.com/lubkoKuzenko/angular-clean-code">
+ 
 </div>
 
 ##
