@@ -20,7 +20,7 @@ DEV Full Stack formado pela CubosAcademy  👨‍💻.
 <div style="display: inline_block"><br/>
   <h1>Estudando no momento<h1/>
     <a href="https://sapui5.hana.ondemand.com/" target="_blank">
-  <img align="center" alt="SapUi5" height="40" width="40" src="https://user-images.githubusercontent.com/94018223/223525647-9c401c11-57b4-48b8-8773-d2b51134f010.jpg">
+  <img align="center" alt="SapUi5" height="40" width="40" src="https://user-images.githubusercontent.com/94018223/223525647-9c401c11-57b4-48b8-8773-d2b51134f010.jpg" target="_blank">
 </a> 
 </div>
 
